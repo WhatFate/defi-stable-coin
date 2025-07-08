@@ -1,0 +1,27 @@
+# === Foundry build artifacts ===
+out/
+cache/
+
+# === Forge dependencies ===
+lib/
+
+# === Dotenv ===
+.env
+
+# === Broadcast logs ===
+broadcast/**/
+!broadcast/.gitkeep
+
+# === Temporary/OS/system files ===
+*.log
+*.tmp
+*.swp
+.DS_Store
+Thumbs.db
+
+# === VSCode settings ===
+.vscode/
+
+# === Docs ===
+docs/
+
