@@ -1,8 +1,5 @@
 # Decentralized Stablecoin Protocol
 
-[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-
----
 
 ## Table of Contents
 
@@ -131,3 +128,8 @@ DecentralizedStableCoin__MustBeMoreThanZero()
 - Chainlink Documentation: https://docs.chain.link
 
 - Foundry Documentation: https://book.getfoundry.sh/
+
+---
+
+[![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
